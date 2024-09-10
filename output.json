@@ -1,0 +1,1 @@
+{"Status": "SUCCESS", "Data": {"HelmValues": "{\"controller\": {\"replicaCount\": 1}}"}}
